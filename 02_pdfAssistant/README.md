@@ -26,4 +26,3 @@ docker run -d \
   to load the PDF from URLs.
 
 
-  # Assistant is 
